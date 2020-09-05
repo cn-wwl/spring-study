@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="address" class="com.wwl.bean.Address"/>
+
+    <bean id="student" class="com.wwl.bean.Student">
+
+        <!--1.普通注入：value -->
+        <property name="name" value="测试" />
+
+        <!--2.Bean注入：ref -->
+        <property name="address" ref="address"/>
+
+        <!--3.数组注入：arry -->
+        <property name="books">
+            <array>
+                <value type="java.lang.String">斗破苍穹</value>
+                <value type="java.lang.String">吞噬星空</value>
+            </array>
+        </property>
+
+        <!--4.集合注入：list -->
+        <property name="hobbys">
+           <list>
+               <value type="java.lang.String">跑步</value>
+               <value type="java.lang.String">打羽毛球</value>
+           </list>
+        </property>
+
+        <!--5.集合注入：map -->
+        <property name="card">
+            <map>
+                <entry key="身份证" value="11111111111111111"/>
+                <entry key="驾驶证" value="123456789"/>
+            </map>
+        </property>
+
+        <!--6.集合注入：set -->
+        <property name="games">
+            <set>
+                <value type="java.lang.String">LOL</value>
+                <value type="java.lang.String">BOB</value>
+            </set>
+        </property>
+
+        <!--7.空值注入：null -->
+        <property name="wife">
+            <null />
+        </property>
+
+        <!--6.集合注入：props -->
+        <property name="info">
+            <props>
+                <prop key="a">a</prop>
+                <prop key="b">b</prop>
+            </props>
+        </property>
+
+    </bean>
+</beans>

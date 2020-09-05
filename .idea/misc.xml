@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/section1/pom.xml" />
+        <option value="$PROJECT_DIR$/section2/pom.xml" />
+        <option value="$PROJECT_DIR$/section3/pom.xml" />
+        <option value="$PROJECT_DIR$/section4/pom.xml" />
+        <option value="$PROJECT_DIR$/section5/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/pom.xml" />
+        <option value="$PROJECT_DIR$/section7/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/pom.xml" />
+        <option value="$PROJECT_DIR$/section9/pom.xml" />
+        <option value="$PROJECT_DIR$/section-DynamicProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/section5-autowire/pom.xml" />
+        <option value="$PROJECT_DIR$/section8-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/section1-ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/section2-springxml/pom.xml" />
+        <option value="$PROJECT_DIR$/section3-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/section4-MD2/pom.xml" />
+        <option value="$PROJECT_DIR$/section6-autowire/pom.xml" />
+        <option value="$PROJECT_DIR$/section7-component/pom.xml" />
+        <option value="$PROJECT_DIR$/section10-DynamicProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/section11-aop/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

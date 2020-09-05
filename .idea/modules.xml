@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/section1-ioc/section1-ioc.iml" filepath="$PROJECT_DIR$/section1-ioc/section1-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section10-DynamicProxy/section-DynamicProxy.iml" filepath="$PROJECT_DIR$/section10-DynamicProxy/section-DynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section11-aop/section11-aop.iml" filepath="$PROJECT_DIR$/section11-aop/section11-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section2-springxml/section2-springxml.iml" filepath="$PROJECT_DIR$/section2-springxml/section2-springxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section3-DI/section3-DI.iml" filepath="$PROJECT_DIR$/section3-DI/section3-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section4-MD2/section4-MD2.iml" filepath="$PROJECT_DIR$/section4-MD2/section4-MD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section5-autowire/section5-autowire.iml" filepath="$PROJECT_DIR$/section5-autowire/section5-autowire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section6-autowire/section6-autowire.iml" filepath="$PROJECT_DIR$/section6-autowire/section6-autowire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section7-component/section7-component.iml" filepath="$PROJECT_DIR$/section7-component/section7-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section8-annotation/section8-annotation.iml" filepath="$PROJECT_DIR$/section8-annotation/section8-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section9-StaticProxy/section9-StaticProxy.iml" filepath="$PROJECT_DIR$/section9-StaticProxy/section9-StaticProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-study.iml" filepath="$PROJECT_DIR$/.idea/spring-study.iml" />
+    </modules>
+  </component>
+</project>

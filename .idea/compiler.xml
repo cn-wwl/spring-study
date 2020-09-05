@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="section4-MD2" />
+        <module name="section5-autowire" />
+        <module name="section7-component" />
+        <module name="section6-autowire" />
+        <module name="section9-StaticProxy" />
+        <module name="section3-DI" />
+        <module name="section2-springxml" />
+        <module name="section10-DynamicProxy" />
+        <module name="section1-ioc" />
+        <module name="section11-aop" />
+        <module name="section8-annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="section1-ioc" target="1.8" />
+      <module name="section10-DynamicProxy" target="1.8" />
+      <module name="section11-aop" target="1.8" />
+      <module name="section2-springxml" target="1.8" />
+      <module name="section3-DI" target="1.8" />
+      <module name="section4-MD2" target="1.8" />
+      <module name="section5-autowire" target="1.8" />
+      <module name="section6-autowire" target="1.8" />
+      <module name="section7-component" target="1.8" />
+      <module name="section8-annotation" target="1.8" />
+      <module name="section9-StaticProxy" target="1.8" />
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

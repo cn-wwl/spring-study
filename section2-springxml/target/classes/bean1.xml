@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <alias name="user" alias="user2"/>
+    <bean id="user" class="com.dao.user" name="user3,user4;user5 user6">
+        <constructor-arg name="name" value="参数名称注入-测试" />
+    </bean>
+</beans>
